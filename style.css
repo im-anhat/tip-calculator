@@ -1,0 +1,38 @@
+h3 {
+    font-family: "Charm", cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.card-body {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+#inputForm{
+    background-color: rgb(37, 37, 37);
+    color: rgb(240, 243, 245);
+}
+
+
+.img-fluid {
+    height: 300px;
+    margin-bottom: 10px;
+}
+
+
+.calculate-tip-btn {
+    border-radius: 50%; /* Makes the button circular */ 
+    margin-top: 7px;
+    padding: 10px 20px; /* Adjust padding if needed */
+    background-color:cornflowerblue;
+}
+
+.calculate-tip-btn:hover{
+    background-color: rgb(8, 224, 156);
+}
+  
